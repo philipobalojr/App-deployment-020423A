@@ -331,5 +331,4 @@ Once both the above steps are done click on Save.
         `git push`
 
 
-## Finally observe the whole flow and understand the integrations :) 
-# Happy learning, everyone! 😊 😊
+##Awesome
